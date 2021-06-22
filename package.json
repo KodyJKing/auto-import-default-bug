@@ -1,0 +1,7 @@
+{
+  "name": "auto-import-default-bug",
+  "version": "1.0.0",
+  "devDependencies": {
+    "typescript": "4.3.0-beta"
+  }
+}
